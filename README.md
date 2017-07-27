@@ -11,7 +11,7 @@ If you want to use this wonderful and useful tool:
   pip3 install playsound
   git clone https://github.com/bykof/batz-bljad-shesh-oh_shit soundboard
   cd soundboard
-  python3 soundboard.py
+  sudo python3 soundboard.py
 ```
 
 ### Have fun <3
